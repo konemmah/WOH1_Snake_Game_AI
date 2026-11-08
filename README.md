@@ -1,2 +1,2 @@
-# WOH1_Snake_Game_AI
+# Hyttinen_Konsta_WOH-AI
 Web Snake game developed using Copilot AI
